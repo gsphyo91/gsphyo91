@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsphyo91)](https://github.com/gsphyo91/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsphyo91count_private=true)](https://github.com/gsphyo91/github-readme-stats)
 
 
 <!--
